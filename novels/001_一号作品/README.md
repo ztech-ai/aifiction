@@ -1,6 +1,6 @@
-# 001 · 这班我包了（暂题）
+# 001 · 第一部小说（重新选题）
 
-**定位**　硬科技创业商战。一个被撤掉夜班的外包工，要凭自制搬运车拿下物流园区的生意。[本轮主线](bible/story.md) · [早期资料与候选](memory/ideas.md)。
+**定位**　本轮从题材、声音和目标读者三方面重新选题，见[二十案](memory/选题20案.md)。[此前创业方案](bible/story.md) · [更早的候选](memory/ideas.md)。
 
 **模板版本**　1.0。**当前阶段与下一步**见[状态页](memory/state.md)。
 
@@ -8,7 +8,7 @@
 | --- | --- |
 | 本作稳定的工作约定 | [作品指令](AGENTS.md) |
 | 用户想写什么、面向谁 | [创作简报](bible/brief.md) |
-| 整体去向、人物和必要规则 | [故事总纲](bible/story.md) · [人物关系](bible/characters.md) · [世界设定](bible/world.md) |
+| 前案的总纲、人物与设定入口 | [故事总纲](bible/story.md) · [人物关系](bible/characters.md) · [世界设定](bible/world.md) |
 | 叙述声音及参照 | [文风](bible/style.md) |
 | 未来安排和当前稿阅读顺序 | [章节计划](planning/chapters.md) · [章节索引](chapters/README.md) |
 | 接续事实、待回收线索与取舍依据 | [连续性](memory/continuity.md) · [决定记录](memory/decisions.md) |
